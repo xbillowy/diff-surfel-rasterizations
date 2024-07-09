@@ -12,7 +12,7 @@
 #ifndef CUDA_RASTERIZER_CONFIG_H_INCLUDED
 #define CUDA_RASTERIZER_CONFIG_H_INCLUDED
 
-#define NUM_CHANNELS 34 // 32 feature descriptors + 1 specular + 1 roughness
+#define NUM_CHANNELS 26 // 24 feature descriptors + 1 specular + 1 roughness
 #define BLOCK_X 16
 #define BLOCK_Y 16
 
