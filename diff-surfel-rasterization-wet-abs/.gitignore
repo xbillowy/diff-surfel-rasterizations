@@ -1,5 +1,5 @@
 build/
-diff_surfel_rasterization_wet_ch05.egg-info/
+diff_surfel_rasterization_wet_abs.egg-info/
 dist/
 *.so
 .vscode
